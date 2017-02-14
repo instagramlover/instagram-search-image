@@ -1,3 +1,3 @@
 FROM php:5.6-apache
-ADD . /var/www/instagram-search
+ADD . /var/www/opt
 
